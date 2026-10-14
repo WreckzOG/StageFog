@@ -1,3 +1,3 @@
-# Alien Skies
+# Shaders
 
-Screenshots and release files for the Alien Skies Risk of Rain 2 mod.
+Screenshots and release files for the Shaders Risk of Rain 2 mod.
